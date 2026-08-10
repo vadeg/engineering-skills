@@ -1,0 +1,14 @@
+{
+  "name": "prototype-decomposition",
+  "description": "Turns a UI prototype -- a live web app, a Claude Design project link, a local source file, or shared screenshots -- into a dated docs folder with user-flow.md and mockups.md built from real screenshots of the actual prototype.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Vadim Shaigorodskiy",
+    "email": "5587834+vadeg@users.noreply.github.com"
+  },
+  "keywords": [
+    "prototype",
+    "documentation",
+    "ux"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "walking-skeleton",
+  "description": "Validates a task breakdown, tasks.md, sprint backlog, or phased roadmap against the walking-skeleton approach -- a thin, real, end-to-end slice through every architectural layer built and deployed first, before feature work.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Vadim Shaigorodskiy",
+    "email": "5587834+vadeg@users.noreply.github.com"
+  },
+  "keywords": [
+    "walking-skeleton",
+    "task-breakdown",
+    "code-review"
+  ]
+}

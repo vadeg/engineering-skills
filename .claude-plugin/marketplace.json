@@ -1,0 +1,29 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "engineering-skills",
+  "description": "Personal marketplace of engineering skills: prototype decomposition and hard multi-perspective design/plan reviews.",
+  "owner": {
+    "name": "Vadim Shaigorodskiy",
+    "email": "5587834+vadeg@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "prototype-decomposition",
+      "source": "./prototype-decomposition",
+      "description": "decompose-prototype skill -- turns a UI prototype into a dated docs folder built from real screenshots.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "walking-skeleton",
+      "source": "./walking-skeleton",
+      "description": "review-tasks-breakdown skill, plus the walking-skeleton-validator subagent it depends on.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "commitee-of-concerns",
+      "source": "./commitee-of-concerns",
+      "description": "hard-system-design-review skill, plus the pragmatist/minimalist/purist subagents it dispatches in parallel.",
+      "version": "0.1.0"
+    }
+  ]
+}

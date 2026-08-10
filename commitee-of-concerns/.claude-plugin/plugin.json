@@ -1,0 +1,14 @@
+{
+  "name": "commitee-of-concerns",
+  "description": "Runs a brutal, multi-perspective system/software design review by dispatching three archetype subagents in parallel -- the pragmatist, the minimalist, and the purist -- then synthesizing their verdicts into one report.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Vadim Shaigorodskiy",
+    "email": "5587834+vadeg@users.noreply.github.com"
+  },
+  "keywords": [
+    "design-review",
+    "architecture",
+    "code-review"
+  ]
+}
